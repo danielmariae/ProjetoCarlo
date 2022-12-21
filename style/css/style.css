@@ -26,19 +26,6 @@ body {
     font-weight: 100;
 }
 
-#cover-index {
-    margin: 0px;
-    background-size:cover;
-    display:flexbox;
-    width:100%;
-}
-
-#download-h1 {
-    font-family: 'Zapfino Extra LT', sans-serif;
-    font-size: 100px;
-    display:flex;
-    text-align: center;
-}
 
 .navbar a {
     color: #fff;
@@ -87,4 +74,18 @@ body {
 
 #first-column {
     padding-top: 0px;
+}
+
+
+#cover-index {
+    margin: 0px;
+    background-size:cover;
+    display:flexbox;
+    width:100%;
+}
+
+#download-h1 {
+    font-family: 'Zapfino Extra LT', sans-serif;
+    font-size: 80px;
+    text-align: center;
 }
